@@ -10,7 +10,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/article-one', function (req, res) {
-  res.send('zarticle-one.html');
+  res.send('sssindex');
 });
 
 app.get('/article-two', function (req, res) {
