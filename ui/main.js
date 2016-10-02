@@ -1,6 +1,7 @@
 console.log('Loaded!');
 
 var element = document.getElementById('maintext');
+
 element.innerHTML = 'Hopesprings';
 
 var img = document.getElementById('madi');
