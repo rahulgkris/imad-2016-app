@@ -1,7 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: white;
-    margin-top: 75px;
+    margin-top: 60px;
 }
 
 .center {
@@ -24,7 +23,6 @@ body {
             margin: 0 auto;
             color: green;
 			font-family:calibri;
-			padding-top :50px;
 			padding-left: 18px;
 			padding-right: 18px;
 }        
