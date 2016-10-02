@@ -12,6 +12,36 @@ var articleone={
  date: "26 sep,2016",
  content:   `
                 <p>
+                    This is rahul's content for 1st article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
+                </p>
+                <p>
+                    This is rahul's content for 1st article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
+                </p>
+                <p>
+                    This is rahul's content for 1st article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
+                </p>`
+}
+var articletwo={
+ title: "Article -Two | rahul",
+ heading:"Article Two",
+ date: "27 sep,2016",
+ content:   `
+                <p>
+                    This is rahul's content for 2nd article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
+                </p>
+                <p>
+                    This is rahul's content for2nd article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
+                </p>
+                <p>
+                    This is rahul's content for 2nd article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
+                </p>`
+}
+var articleone={
+ title: "Article -Three | rahul",
+ heading:"Article Three",
+ date: "29 sep,2016",
+ content:   `
+                <p>
                     This is rahul's content for 3rd article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
                 </p>
                 <p>
