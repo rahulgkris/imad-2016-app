@@ -9,11 +9,13 @@ var marginLeft = 0;
 function moveRight(){
     marginLeft =marginLeft + 10;
     img.style.marginLeft=marginLeft + 'px';
-    if (marginLeft > 50) then
-    marginLeft = 0;
-    
+}
+function moveTight(){
+    marginLeft =marginLeft + 50;
+    img.style.marginLeft=marginLeft + 'px';
 }
 img.onclick = function(){
     img.style.marginRight= '100px';
     var interval = setInterval(moveRight,100);
+    var intervalx = setInterval(moveTight,100);
 } 
