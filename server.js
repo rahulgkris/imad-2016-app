@@ -20,7 +20,7 @@ var articleone={
                 <p>
                     This is rahul's content for 3rd article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.This is rahul's content for first article.
                 </p>`
-};
+}
 
 function createTemplate(data){
         var title = data.title;
