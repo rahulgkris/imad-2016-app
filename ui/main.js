@@ -7,11 +7,11 @@ element.innerHTML = 'Hopesprings';
 var img = document.getElementById('madi');
 var marginLeft = 0;
 function moveRight(){
-    marginLeft =marginLeft + 10;
+    marginLeft =marginLeft + 20;
     img.style.marginLeft=marginLeft + 'px';
 }
 function moveTight(){
-    marginLeft =marginLeft + 50;
+    marginLeft =marginLeft - 20;
     img.style.marginLeft=marginLeft + 'px';
 }
 img.onclick = function(){
