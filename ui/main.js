@@ -1,9 +1,9 @@
 console.log('Loaded!');
 
 var element = document.getElementById('maintext');
-element.innerHTML = 'Hopespeings';
+element.innerHTML = 'Hopesprings';
 
-var madi = document.getElementById('madi');
-madi.onclick = function(){
-    
+var img = document.getElementById('madi');
+img.onclick = function(){
+    img.style.marginRight= '100px';
 } 
